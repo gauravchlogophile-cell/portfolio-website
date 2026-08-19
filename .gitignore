@@ -1,0 +1,5 @@
+.agents/
+.gemini/
+.vscode/
+node_modules/
+.DS_Store
